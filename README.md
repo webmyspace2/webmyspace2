@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Microsoft .NET projects using modern frameworks
+I have a long and strong industry proven experience in building enterprise-grade data-driven applications using modern as well as legacy frameworks including cloud development and devops.
 
 
 # 💻 Tech Stack:
